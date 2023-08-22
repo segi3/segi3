@@ -21,7 +21,7 @@ I code with these stuffs >> ![Java](https://img.shields.io/badge/-Java-05122A?st
 ![Firebase](https://img.shields.io/badge/Firebase-05122A?style=flat&logo=Firebase&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-05122A.svg?style=flat&logo=redis&logoColor=white) and other more 
 
-proffesional experience in backend and qa automation \\/\\/\\ learning and practicing devops
+professional experience in backend and qa automation \\/\\/\\ learning and practicing devops
 
 currently working as backend eng on XL Axiata Indonesia
 
