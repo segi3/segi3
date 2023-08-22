@@ -25,7 +25,7 @@ proffesional experience in backend and qa automation \\/\\/\\ learning and pract
 
 currently working as backend eng on XL Axiata Indonesia
 
-<img align='right' src='https://media.tenor.com/lASY8qJLPaAAAAAC/angry-black-cat-meme.gif' width='200'>
+<img align='right' src='https://github.com/segi3/segi3/blob/main/iminbigpain.gif' width='200'>
 
 <br/>
 <br/>
