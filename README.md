@@ -19,7 +19,7 @@ I code with these stuffs >> ![Java](https://img.shields.io/badge/-Java-05122A?st
 ![Postgres](https://img.shields.io/badge/postgres-05122A.svg?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-05122A.svg?style=flat&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-05122A?style=flat&logo=Firebase&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-05122A.svg?style=flat&logo=redis&logoColor=white) and other more 
+![Redis](https://img.shields.io/badge/redis-05122A.svg?style=flat&logo=redis&logoColor=white) and other more and always eager to learn new stuff!
 
 professional experience in backend and qa automation \\/\\/\\ learning and practicing devops
 
