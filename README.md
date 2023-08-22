@@ -23,3 +23,5 @@ I code with these stuffs >> ![Java](https://img.shields.io/badge/-Java-05122A?st
 
 experienced with backend, qa automation, and devops(practicing) engineering \
 currently working as backend eng on XL Axiata Indonesia
+
+<img align='right' src='https://media.tenor.com/lASY8qJLPaAAAAAC/angry-black-cat-meme.gif' width='200'>
