@@ -23,7 +23,7 @@ I code with these stuffs >> ![Java](https://img.shields.io/badge/-Java-05122A?st
 
 professional experience in backend and qa automation \\/\\/\\ learning and practicing devops
 
-currently working as backend eng on XL Axiata Indonesia
+currently working as software eng at indosat IDE
 
 <img align='right' src='https://github.com/segi3/segi3/blob/main/iminbigpain.gif' width='200'>
 
